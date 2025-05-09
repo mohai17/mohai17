@@ -17,14 +17,14 @@ Software Development Engineer in Test (SDET) with expertise in automation testin
 </p>
 
 ## 🔭 Projects
-- **[Project 1](#)** - Description of project 1
-- **[Project 2](#)** - Description of project 2
-- **[Project 3](#)** - Description of project 3
+- **[OpenCart](#)** - E-commerce Site
+- **[PetStore API](#)** - Rest API
+- **[EMI Calculator](#)** - Android App
 
 ## 📫 Contact Me
-- **LinkedIn:** [Your LinkedIn](#)
-- **GitHub:** [Your GitHub](#)
-- **Email:** [mohai.cse@gmail.com](#
+- **LinkedIn:** https://www.linkedin.com/in/mohaiverified/
+- **GitHub:** https://github.com/mohai17
+- **Email:** mohai.cse@gmail.com
 
 ---
 
