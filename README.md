@@ -24,7 +24,7 @@ Software Development Engineer in Test (SDET) with expertise in automation testin
 ## 📫 Contact Me
 - **LinkedIn:** [Your LinkedIn](#)
 - **GitHub:** [Your GitHub](#)
-- **Email:** [Your Email](#)
+- **Email:** [mohai.cse@gmail.com](#
 
 ---
 
