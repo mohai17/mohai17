@@ -25,6 +25,7 @@ Software Development Engineer in Test (SDET) with expertise in automation testin
 - **LinkedIn:** https://www.linkedin.com/in/mohaiverified/
 - **GitHub:** https://github.com/mohai17
 - **Email:** mohai.cse@gmail.com
+- **Blog:** https://sdetblueprint.blogspot.com/
 
 ---
 
