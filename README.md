@@ -19,7 +19,8 @@ Software Development Engineer in Test (SDET) with expertise in automation testin
 ## 🔭 Projects
 - **[OpenCart](https://github.com/mohai17/OpenCart)** - E-commerce Site
 - **[PetStore API](https://github.com/mohai17/PetStoreAPI)** - Rest API
-- **[EMI Calculator](#)** - Android App
+- **[Hybrid Automation Framework](https://github.com/mohai17/HybridAutomationFramework.git)** - E-Commerce
+- **[API Hybrid Automation Framework](https://github.com/mohai17/HybridAutomationFramework.git)** - Rest API
 
 ## 📫 Contact Me
 - **LinkedIn:** https://www.linkedin.com/in/mohaiverified/
