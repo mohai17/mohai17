@@ -1,7 +1,7 @@
 # Md. Mohai Minul Islam
 
 ## 👨‍💻 About Me
-Software Development Engineer in Test (SDET) with expertise in automation testing and DevOps tools. Passionate about building robust test frameworks and ensuring software quality.
+Software Quality Assurance Engineer with expertise in automation testing and DevOps tools. Passionate about building robust test frameworks and ensuring software quality.
 
 ## 🛠 Skills & Technologies
 <p align="left">
