@@ -17,10 +17,10 @@ Software Quality Assurance Engineer with expertise in automation testing and Dev
 </p>
 
 ## 🔭 Projects
-- **[OpenCart](https://github.com/mohai17/OpenCart)** - E-commerce Site
-- **[PetStore API](https://github.com/mohai17/PetStoreAPI)** - Rest API
-- **[Hybrid Automation Framework](https://github.com/mohai17/HybridAutomationFramework.git)** - E-Commerce
-- **[API Hybrid Automation Framework](https://github.com/mohai17/API_Hybrid_AutomationFramework.git)** - Rest API
+
+- **[OpenCart - Selenium Java](https://github.com/mohai17/HybridAutomationFramework.git)** - E-Commerce
+- **[PetStore - RestAssured Java](https://github.com/mohai17/API_Hybrid_AutomationFramework.git)** - Rest API
+- **[Orange HRM - Playwright DotNet](https://github.com/mohai17/OrangeHRM_Playwright_DotNet.git)** - ERP Application
 
 ## 📫 Contact Me
 - **LinkedIn:** https://www.linkedin.com/in/mohaiverified/
