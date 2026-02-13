@@ -5,19 +5,19 @@ Software Quality Assurance Engineer with expertise in automation testing and Dev
 
 ## 🛠 Skills & Technologies
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C#-%23FF6C37.svg?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat-square&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-%23ED8B00.svg?style=flat-square&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rest%20Assured-%23007ACC.svg?style=flat-square&logo=rest-assured&logoColor=white" />
-  <img src="https://img.shields.io/badge/Appium-%2343B02A.svg?style=flat-square&logo=appium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat-square&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%23009688.svg?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/ZAP-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/MobSF-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-%23005CA5.svg?style=flat-square&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat-square&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-%232EAD33.svg?style=flat-square&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Rest%20Assured-%23007ACC.svg?style=flat-square&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Appium-%23007ACC.svg?style=flat-square&logo=appium&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat-square&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-%23009688.svg?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/ZAP-%2300AEEF.svg?style=flat-square&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/MobSF-%2300AEEF.svg?style=flat-square&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-%23005CA5.svg?style=flat-square&logo=jira&logoColor=white" />
 </p>
 
 ## 🔭 Projects
