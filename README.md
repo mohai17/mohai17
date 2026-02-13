@@ -8,7 +8,7 @@ Software Quality Assurance Engineer with expertise in automation testing and Dev
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat-square&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-%232EAD33.svg?style=flat-square&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-%232EAD33.svg?style=flat-square&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Rest%20Assured-%23007ACC.svg?style=flat-square&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Appium-%23007ACC.svg?style=flat-square&logo=appium&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white" />
