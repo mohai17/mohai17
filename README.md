@@ -22,9 +22,9 @@ Software Quality Assurance Engineer with expertise in automation testing and Dev
 
 ## 🔭 Projects
 
-- **[GlideGO - Playwright .Net with BDD Framework(Reqnroll)](https://github.com/mohai17/GlideGo_WebAutomation_BDD.git)** - Transport Booking Web Applicaition for Passenger
-- **[GlideGo Passenger - Appium C# with BDD Framework(Reqnroll)](https://github.com/mohai17/GlideGo_PassengerAppAutomation_BDD.git)** - Transport Booking Mobile App for Passenger
-- **[GlideGo Driver - Appium C# with BDD Framework(Reqnroll)](https://github.com/mohai17/GlideGo_DriverAppAutomation_BDD.git)** - Transport Booking Mobile App for Driver
+- **[GlideGo Web App - Playwright .Net with BDD Framework(Reqnroll)](https://github.com/mohai17/GlideGo_WebAutomation_BDD.git)** - Transport Booking Web Applicaition for Passenger
+- **[GlideGo Passenger App - Appium C# with BDD Framework(Reqnroll)](https://github.com/mohai17/GlideGo_PassengerAppAutomation_BDD.git)** - Transport Booking Mobile App for Passenger
+- **[GlideGo Driver App - Appium C# with BDD Framework(Reqnroll)](https://github.com/mohai17/GlideGo_DriverAppAutomation_BDD.git)** - Transport Booking Mobile App for Driver
 
 ## 📫 Contact Me
 - **LinkedIn:** https://www.linkedin.com/in/mohaiverified/
