@@ -22,11 +22,9 @@ Software Quality Assurance Engineer with expertise in automation testing and Dev
 
 ## 🔭 Projects
 
-- **[OpenCart - Selenium Java](https://github.com/mohai17/HybridAutomationFramework.git)** - E-Commerce
-- **[PetStore - RestAssured Java](https://github.com/mohai17/API_Hybrid_AutomationFramework.git)** - Rest API
-- **[Orange HRM - Playwright .Net](https://github.com/mohai17/OrangeHRM_Playwright_DotNet.git)** - ERP Application
-- **[ParaBank - Playwright .Net](https://github.com/mohai17/ParaBank_Playwright_DotNet.git)** - Banking Application
-
+- **[GlideGO - Playwright .Net](https://github.com/mohai17/GlideGo_WebAutomation_BDD.git)** - Transport Booking Web Applicaition for Passenger
+- **[GlideGo Rider - Appium C#]()** - Transport Booking Mobile App for Passenger
+- **[GlideGo Driver - Appium C#]()** - Transport Booking Mobile App for Driver
 
 ## 📫 Contact Me
 - **LinkedIn:** https://www.linkedin.com/in/mohaiverified/
