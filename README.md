@@ -21,7 +21,7 @@ Software Quality Assurance Engineer with expertise in automation testing and Dev
 </p>
 
 ## 🔭 Projects
-- **[GlideGo Web and Mobile App - Hybrid Automation Framework with Playwright .Net, Appium and BDD Framework(Reqnroll)](https://github.com/mohai17/GlideGo_HybridAutomation.git)** - Transport Booking Web and App Combined 
+- **[GlideGo Web and Mobile App - Hybrid Automation Framework](https://github.com/mohai17/GlideGo_HybridAutomation.git)** - Transport Booking Web and App Combined 
 - **[Parabank - Playwright .Net with NUnit](https://github.com/mohai17/ParaBank_Playwright_DotNet.git)** - Demo Banking Web Application
 ## 📫 Contact Me
 - **LinkedIn:** https://www.linkedin.com/in/mohaiverified/
